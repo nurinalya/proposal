@@ -6,7 +6,7 @@
 > **Instructor:** Dr. Najhan bin Muhamad Ibrahim  
 > **Submission Deadline:** May 22, 2026
 
-> ## 👥 a) Team Details & Responsibilities
+## 👥 a) Team Details & Responsibilities
 
 | Matric No. | Name | Role | Key Responsibilities |
 | :--- | :--- | :--- | :--- |
@@ -18,7 +18,17 @@
 
 ## 📑 Project Overview
 
-### 1. Introduction
+## 1. Introduction
 
 
-### 2. Project Objectives
+## 2. Project Objectives
+
+## 3. Features and Functionalities
+
+## 4. Entity Relationship Diagram (ERD)
+
+## 5. Sequence Diagrams
+
+## 6. References
+
+
