@@ -18,10 +18,7 @@
 
 ## 📑 Project Overview
 
----
-
 ## 1. Introduction
-
 
 ## 2. Project Objectives
 
