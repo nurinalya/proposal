@@ -8,7 +8,7 @@
 >
 > ## 👥 a) Team Details & Responsibilities
 
-| Matric No. | Name | Role / Focus Area | Key Responsibilities |
+| Matric No. | Name | Role | Key Responsibilities |
 | :--- | :--- | :--- | :--- |
 | **2418662** | **Nurin Aleya binti Azhari**| Project Manager & Lead Writer | Set up and manage the shared GitHub repository, structure documentation, compile intro/objectives, and audit code integration to avoid penalties. |
 | **2412366** | **Nor Farrah Fatihah bt. Mohd. Sopian** | Frontend UI/UX Developer | Develop interactive views using Laravel's Blade Engine, map typography and color palettes, ensure intuitive user navigation and accessibility.|
