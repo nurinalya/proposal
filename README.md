@@ -10,7 +10,7 @@
 | Matric No. | Name | Role | Key Responsibilities |
 | :--- | :--- | :--- | :--- |
 | **2418662** | **Nurin Aleya binti Azhari**| Project Manager |  |
-| **2412366** | **Nor Farrah Fatihah bt. Mohd. Sopian** | Frontend Developer (UI/UX) | |
+| **2412366** | **Nor Farrah Fatihah bt. Mohd. Sopian** | Frontend Developer (UI/UX) | Designs and develops the application interface and user experience using Laravel Blade.  |
 | **2410492** | **Izzatul Husni Izyani Binti Mohd Yusof** | Backend Engineer | |
 | **2418628** | **Nur Irdina Farzana Binti Mohd Rais** | Database Architect| |
 | **2412974** | **Siti Nur Safiah Binti Noorlin** | Systems Analyst |  |
